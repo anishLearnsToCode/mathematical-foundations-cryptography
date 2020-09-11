@@ -28,5 +28,5 @@ __~University of Colorado__
 - [Graded Assessment: Primality Testing](week4/graded-assessment-primality-teseting.md)
 - [Quiz: Course Project](week4/quiz-course-project.md)
 
-## [🎓 Certificate](https://www.coursera.org/verify/7FVGRVKAFW73)
+## [🎓 Certificate](http://coursera.org/verify/ZPQF7QGV22XT)
 ![certificate](certificate/certificate.PNG)
