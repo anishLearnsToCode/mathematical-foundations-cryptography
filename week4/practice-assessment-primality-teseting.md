@@ -1,0 +1,6 @@
+![question-1](assets/practice/question-1.PNG)
+![question-2](assets/practice/question-2.PNG)
+![question-3](assets/practice/question-3.PNG)
+![question-4](assets/practice/question-4.PNG)
+![question-5](assets/practice/question-5.PNG)
+![question-6](assets/practice/question-6.PNG)
