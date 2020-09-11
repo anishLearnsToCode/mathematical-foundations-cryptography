@@ -1,5 +1,5 @@
 # Mathematical Foundations for Cryptography @Coursera
-__~ University of Colorado__
+__~University of Colorado__
 
 [![course-list](https://img.shields.io/badge/also%20see-Coursera%20Courses-1f72ff.svg)](https://github.com/anishLearnsToCode/course-list)
 [![specialization](https://img.shields.io/badge/specialization-Introdution%20to%20Applied%20Cryptography-1f72ff.svg)](https://github.com/anishLearnsToCode/intro-to-applied-cryptography)
