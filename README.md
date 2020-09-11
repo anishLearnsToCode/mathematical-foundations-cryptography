@@ -29,3 +29,4 @@ __~University of Colorado__
 - [Quiz: Course Project](week4/quiz-course-project.md)
 
 ## 🎓 Certificate
+![certificate](certificate/certificate.PNG)

@@ -1,4 +1,4 @@
-![question-1](assets/graded/question-1-i1.PNG)
+![question-1](assets/graded/question-1.PNG)
 ![question-2](assets/graded/question-2.PNG)
 ![question-3](assets/graded/question-3.PNG)
 ![question-4](assets/graded/question-4.PNG)
